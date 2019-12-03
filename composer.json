@@ -1,0 +1,12 @@
+{
+    "name": "ghockin/php74",
+    "require": {
+        "monolog/monolog": "^2.0"
+    },
+    "authors": [
+        {
+            "name": "Gary Hockin",
+            "email": "gary@hock.in"
+        }
+    ]
+}
